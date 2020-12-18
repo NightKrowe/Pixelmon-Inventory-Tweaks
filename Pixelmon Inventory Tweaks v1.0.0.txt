@@ -25,6 +25,43 @@
 			<yellow id="pixelmon:yellowbadgecase"/>
 			<red id="pixelmon:redbadgecase"/>
 		</case>
+		<badge>
+			<beacon id="pixelmon:beacon_badge"/>
+            <bolt id="pixelmon:bolt_badge"/>
+            <boulder id="pixelmon:boulder_badge"/>
+            <bug id="pixelmon:bug_badge"/>
+            <cascade id="pixelmon:cascade_badge"/>
+            <cliff id="pixelmon:cliff_badge"/>
+            <coal id="pixelmon:coal_badge"/>
+            <dynamo id="pixelmon:dynamo_badge"/>
+            <earth id="pixelmon:earth_badge"/>
+            <feather id="pixelmon:feather_badge"/>
+            <fen id="pixelmon:fen_badge"/>
+            <forest id="pixelmon:forest_badge"/>
+            <freeze id="pixelmon:freeze_badge"/>
+            <glacier id="pixelmon:glacier_badge"/>
+            <heat id="pixelmon:heat_badge"/>
+            <hive id="pixelmon:hive_badge"/>
+            <iceberg id="pixelmon:iceberg_badge"/>
+            <icicle id="pixelmon:icicle_badge"/>
+            <insect id="pixelmon:insect_badge"/>
+            <jet id="pixelmon:jet_badge"/>
+            <marsh id="pixelmon:marsh_badge"/>
+            <mind id="pixelmon:mind_badge"/>
+            <mine id="pixelmon:mine_badge"/>
+            <mineral id="pixelmon:mineral_badge"/>
+            <plant id="pixelmon:plant_badge"/>
+            <psychic id="pixelmon:psychic_badge"/>
+            <quake id="pixelmon:quake_badge"/>
+            <rain id="pixelmon:rain_badge"/>
+            <rainbow id="pixelmon:rainbow_badge"/>
+            <stone id="pixelmon:stone_badge"/>
+            <thunder id="pixelmon:thunder_badge"/>
+            <volcano id="pixelmon:volcano_badge"/>
+            <voltage id="pixelmon:voltage_badge"/>
+            <wave id="pixelmon:wave_badge"/>
+            <zephyr id="pixelmon:zephyr_badge"/>
+		</badge>
 	</pkmnbadge>
 	<pokeballs>
 		<pokeball id="pixelmon:poke_ball"/>
@@ -55,6 +92,56 @@
         <dream id="pixelmon:dream_ball"/>
         <beast id="pixelmon:beast_ball"/>
 	</pokeballs>
+	<pokeballparts>
+		<aluminum_base id="pixelmon:aluminum_base"/>
+        <aluminum_disc id="pixelmon:aluminum_disc"/>
+        <dive_ball_disc id="pixelmon:dive_ball_disc"/>
+        <dive_ball_lid id="pixelmon:dive_ball_lid"/>
+        <dusk_ball_disc id="pixelmon:dusk_ball_disc"/>
+        <dusk_ball_lid id="pixelmon:dusk_ball_lid"/>
+        <fast_ball_disc id="pixelmon:fast_ball_disc"/>
+        <fast_ball_lid id="pixelmon:fast_ball_lid"/>
+        <friend_ball_disc id="pixelmon:friend_ball_disc"/>
+        <friend_ball_lid id="pixelmon:friend_ball_lid"/>
+        <great_ball_disc id="pixelmon:great_ball_disc"/>
+        <great_ball_lid id="pixelmon:great_ball_lid"/>
+        <heal_ball_disc id="pixelmon:heal_ball_disc"/>
+        <heal_ball_lid id="pixelmon:heal_ball_lid"/>
+        <heavy_ball_disc id="pixelmon:heavy_ball_disc"/>
+        <heavy_ball_lid id="pixelmon:heavy_ball_lid"/>
+        <iron_base id="pixelmon:iron_base"/>
+        <iron_disc id="pixelmon:iron_disc"/>
+        <level_ball_disc id="pixelmon:level_ball_disc"/>
+        <level_ball_lid id="pixelmon:level_ball_lid"/>
+        <love_ball_disc id="pixelmon:love_ball_disc"/>
+        <love_ball_lid id="pixelmon:love_ball_lid"/>
+        <lure_ball_disc id="pixelmon:lure_ball_disc"/>
+        <lure_ball_lid id="pixelmon:lure_ball_lid"/>
+        <luxury_ball_disc id="pixelmon:luxury_ball_disc"/>
+        <luxury_ball_lid id="pixelmon:luxury_ball_lid"/>
+        <moon_ball_disc id="pixelmon:moon_ball_disc"/>
+        <moon_ball_lid id="pixelmon:moon_ball_lid"/>
+        <nest_ball_disc id="pixelmon:nest_ball_disc"/>
+        <nest_ball_lid id="pixelmon:nest_ball_lid"/>
+        <net_ball_disc id="pixelmon:net_ball_disc"/>
+        <net_ball_lid id="pixelmon:net_ball_lid"/>
+        <poké_ball_disc id="pixelmon:poké_ball_disc"/>
+        <poké_ball_lid id="pixelmon:poké_ball_lid"/>
+        <premier_ball_disc id="pixelmon:premier_ball_disc"/>
+        <premier_ball_lid id="pixelmon:premier_ball_lid"/>
+        <quick_ball_disc id="pixelmon:quick_ball_disc"/>
+        <quick_ball_lid id="pixelmon:quick_ball_lid"/>
+        <repeat_ball_disc id="pixelmon:repeat_ball_disc"/>
+        <repeat_ball_lid id="pixelmon:repeat_ball_lid"/>
+        <safari_ball_disc id="pixelmon:safari_ball_disc"/>
+        <safari_ball_lid id="pixelmon:safari_ball_lid"/>
+        <sport_ball_disc id="pixelmon:sport_ball_disc"/>
+        <sport_ball_lid id="pixelmon:sport_ball_lid"/>
+        <timer_ball_disc id="pixelmon:timer_ball_disc"/>
+        <timer_ball_lid id="pixelmon:timer_ball_lid"/>
+        <ultra_ball_disc id="pixelmon:ultra_ball_disc"/>
+        <ultra_ball_lid id="pixelmon:ultra_ball_lid"/>
+	</pokeballparts>
 	<pkmnmedicine>
 		<potion id="pixelmon:potion"/>
 		<super id="pixelmon:super_potion"/>
@@ -77,7 +164,52 @@
 		<burn id="pixelmon:burn_heal"/>
 		<ice id="pixelmon:ice_heal"/>
 		<full id="pixelmon:full_heal"/>
+		<calcium id="pixelmon:calcium"/>
+		<carbos id="pixelmon:carbos"/>
+		<hp_up id="pixelmon:hp_up"/>
+		<iron id="pixelmon:iron"/>
+		<protein id="pixelmon:protein"/>
+		<zinc id="pixelmon:zinc"/>
+		<pp_up id="pixelmon:pp_up"/>
+		<pp_max id="pixelmon:pp_max"/>
+		<rare_candy id="pixelmon:rare_candy"/>
+		<x_accuracy id="pixelmon:x_accuracy"/>
+		<x_attack id="pixelmon:x_attack"/>
+		<x_defense id="pixelmon:x_defense"/>
+		<x_sp_atk id="pixelmon:x_sp_atk"/>
+		<x_sp_def id="pixelmon:x_sp_def"/>
+		<x_speed id="pixelmon:x_speed"/>
+		<dire_hit id="pixelmon:dire_hit"/>
 	</pkmnmedicine>
+	<orbs>
+		<blue_orb id="pixelmon:blue_orb"/>
+		<red_orb id="pixelmon:red_orb"/>
+		<blue_shard id="pixelmon:blue_shard"/>
+		<red_shard id="pixelmon:red_shard"/>
+		<adamant_orb id="pixelmon:adamant_orb"/>
+		<lustrous_orb id="pixelmon:lustrous_orb"/>
+		<griseous_orb id="pixelmon:griseous_orb"/>
+		<azure_flute id="pixelmon:azure_flute"/>
+		<orb id="pixelmon:orb"/>
+		<orb_of_fiery_souls id="pixelmon:orb_of_fiery_souls"/>
+		<orb_of_frozen_souls id="pixelmon:orb_of_frozen_souls"/>
+		<orb_of_static_souls id="pixelmon:orb_of_static_souls"/>
+		<red_chain id="pixelmon:red_chain"/>
+		<rubyemotion id="pixelmon:ruby_of_emotion"/>
+		<rubyknowledge id="pixelmon:ruby_of_knowledge"/>
+		<rubywillpower id="pixelmon:ruby_of_willpower"/>
+		<tidal_bell id="pixelmon:tidal_bell"/>
+		<clear_bell id="pixelmon:clear_bell"/>
+		<gracidea id="pixelmon:gracidea"/>
+		<prison_bottle id="pixelmon:prison_bottle"/>
+		<reveal_glass id="pixelmon:reveal_glass"/>
+		<dna_splicers id="pixelmon:dna_splicers"/>
+		<porygon_item id="pixelmon:porygon_item"/>
+		<porygon_body id="pixelmon:porygon_body"/>
+		<porygon_head id="pixelmon:porygon_head"/>
+		<porygon_leg id="pixelmon:porygon_leg"/>
+		<porygon_tail id="pixelmon:porygon_tail"/>
+	</orbs>
 	<pkmnplates>
 		<plates>
 			<flame id="pixelmon:flame_plate"/>
@@ -99,6 +231,12 @@
 			<pixie id="pixelmon:pixie_plate"/>
 		</plates>
 	</pkmnplates>
+	<genodrives>
+		<burn_drive id="pixelmon:burn_drive"/>
+		<chill_drive id="pixelmon:chill_drive"/>
+		<douse_drive id="pixelmon:douse_drive"/>
+		<shock_drive id="pixelmon:shock_drive"/>
+	</genodrives>
 	<pkmnZgems>
 		<buginium id="pixelmon:buginium_z"/>
 		<darkinium id="pixelmon:darkinium_z"/>
@@ -307,16 +445,16 @@
 			<sapphire id="pixelmon:sapphire"/>
 			<crystal id="pixelmon:crystal"/>
 			<firestone id="pixelmon:fire_stone"/>
-            <waterstone id="pixelmon:water_stone"/>
-            <moonstone id="pixelmon:moon_stone"/>
-            <thunderstone id="pixelmon:thunder_stone"/>
-            <leafstone id="pixelmon:leaf_stone"/>
-            <sunstone id="pixelmon:sun_stone"/>
-            <dawnstone id="pixelmon:dawn_stone"/>
-            <duskstone id="pixelmon:dusk_stone"/>
-            <shinystone id="pixelmon:shiny_stone"/>
+            		<waterstone id="pixelmon:water_stone"/>
+            		<moonstone id="pixelmon:moon_stone"/>
+            		<thunderstone id="pixelmon:thunder_stone"/>
+            		<leafstone id="pixelmon:leaf_stone"/>
+            		<sunstone id="pixelmon:sun_stone"/>
+            		<dawnstone id="pixelmon:dawn_stone"/>
+            		<duskstone id="pixelmon:dusk_stone"/>
+            		<shinystone id="pixelmon:shiny_stone"/>
 			<dawnshard id="pixelmon:dawn_stone_shard"/>
-            <duskshard id="pixelmon:dusk_stone_shard"/>
+            		<duskshard id="pixelmon:dusk_stone_shard"/>
 			<fireshard id="pixelmon:fire_stone_shard"/>
 			<leafshard id="pixelmon:leaf_stone_shard"/>
 			<moonshard id="pixelmon:moon_stone_shard"/>
