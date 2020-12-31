@@ -21,6 +21,15 @@
 			<backpack id="usefulbackpacks:backpack"/>
 		</bag>
 	</backpacks>
+	<pkmntools>
+		<itemfinder id="pixelmon:itemfinder"/>
+		<wailmer pail id="pixelmon:wailmer_pail"/>
+		<super_rod new id="pixelmon:super_rod"/>
+		<good_rod id="pixelmon:good_rod"/>
+		<old_rod id="pixelmon:old_rod"/>
+		<camera id="pixelmon:camera"/>
+		<film id="pixelmon:film"/>
+	</pkmntools>
 	<pkmnbadge>
 		<case>
 			<blue id="pixelmon:bluebadgecase"/>
