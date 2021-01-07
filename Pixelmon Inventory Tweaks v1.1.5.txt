@@ -797,3 +797,25 @@
         <steel id="pixelmon:steel_gem"/>
         <water id="pixelmon:water_gem"/>
 	</pkmngems>
+	<pkmnmachines>
+		<pc id="pixelmon:pc
+		<healer id="pixelmon:healer"/>
+		<trade_machine id="pixelmon:trade_machine"/>
+		<anvil id="pixelmon:anvil"/>
+		<mechanical_anvil id="pixelmon:mechanical_anvil"/>
+		<fossil_cleaner id="pixelmon:fossil_cleaner"/>
+		<fossil_machine id="pixelmon:fossil_machine"/>
+		<infuser id="pixelmon:infuser"/>
+		<ranch_block id="pixelmon:ranch_block"/>
+		<cloning_machine id="pixelmon:cloning_machine"/>
+		<blue_vending_machine id="pixelmon:blue_vending_machine"/>
+		<green_vending_machine id="pixelmon:green_vending_machine"/>
+		<orange_vending_machine id="pixelmon:orange_vending_machine"/>
+		<pink_vending_machine id="pixelmon:pink_vending_machine"/>
+		<red_vending_machine id="pixelmon:red_vending_machine"/>
+		<yellow_vending_machine id="pixelmon:yellow_vending_machine"/>
+		<elevator id="pixelmon:elevator"/>
+		<timed_fall id="pixelmon:timed_fall"/>
+		<movement_plate id="pixelmon:movement_plate"/>
+		<stick_plate id="pixelmon:stick_plate"/>
+	</pkmnmachines>
