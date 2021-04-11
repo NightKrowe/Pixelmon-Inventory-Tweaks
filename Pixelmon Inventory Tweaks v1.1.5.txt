@@ -23,8 +23,8 @@
 	</backpacks>
 	<pkmntools>
 		<itemfinder id="pixelmon:itemfinder"/>
-		<wailmer pail id="pixelmon:wailmer_pail"/>
-		<super_rod new id="pixelmon:super_rod"/>
+		<wailmer_pail id="pixelmon:wailmer_pail"/>
+		<super_id="pixelmon:super_rod"/>
 		<good_rod id="pixelmon:good_rod"/>
 		<old_rod id="pixelmon:old_rod"/>
 		<camera id="pixelmon:camera"/>
@@ -798,7 +798,7 @@
         <water id="pixelmon:water_gem"/>
 	</pkmngems>
 	<pkmnmachines>
-		<pc id="pixelmon:pc
+		<pc id="pixelmon:pc"/>
 		<healer id="pixelmon:healer"/>
 		<trade_machine id="pixelmon:trade_machine"/>
 		<anvil id="pixelmon:anvil"/>
